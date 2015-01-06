@@ -2,7 +2,7 @@
 layout: post
 category : blog
 title: iOS Device Model Name By Swift
-tagline: ""
+tagline: "2014-01-06"
 tags : [swift, device,model,name]
 ---
 import UIKit
